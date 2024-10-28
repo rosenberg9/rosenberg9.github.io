@@ -24,3 +24,6 @@ version:          2.1.0
 
 github:
   repo:           https://github.com/poole/hyde
+
+  baseurl: "" # leave blank for user/organization site
+url: "https://rosenberg9.github.io" # your GitHub Pages URL
