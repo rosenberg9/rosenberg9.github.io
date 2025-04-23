@@ -33,3 +33,5 @@ I am an incoming master's student, but I still have not decided where :). I rece
 I’m currently a Summer Undergraduate Research Fellow at the Canadian Institute for Theoretical Astrophysics (CITA), where I’m working on gravitational-wave spectral sirens.
 
 Looking ahead, I plan to pursue a PhD in astrophysics, with continued focus on cosmology and numerical simulations. I'm also interested in teaching and mentorship and have served as a teaching assistant for several mathematics and astronomy courses. Outside of research, I like playing guitar, watching baseball, and hiking.
+
+<img src="/assets/img/isaac_presenting_425.jpg" alt="Presenting my undergraduate thesis." style="margin-top: 2em; max-width: 100%;">
