@@ -11,44 +11,34 @@
 - title: Education
   type: time_table
   contents:
-    - title: BSc.
+    - title: Honours Bachelor's of Science (HBSc.)
       institution: University of Toronto, Toronto, Canada
       year: 2021-2025
       description:
         - Astronomy and Astrophysics Specialist, Mathematics Minor
-        - GPA: 3.84/4.00
-
-#    - title: Federal teaching diploma
-#      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-#      year: 1900
-#      description:
-#        - Description 1.
-#        - Description 2.
+        - GPA- 3.84/4.00
 
 - title: Research Experience
   type: time_table
   contents:
-    - title: Undergraduate Thesis I: The Impacts of AGN Feedback on Galaxy Clusters
+    - title: Undergraduate Thesis I- The Impacts of AGN Feedback on Galaxy Clusters
       institution: Department of Astronomy, University of Toronto, Canada
       year: 2024 - 2025
       description:
         - Research assistant for Professor Renée Hložek and Dr. Martine Lokken.
-        - Ran hydrodynamic simulations with the 300 collaboration of galaxy clusters to understand how galactic
-feedback affects large-scale structure.
+        - Ran hydrodynamic simulations with the 300 collaboration of galaxy clusters to understand how galactic feedback affects large-scale structure.
         - Built packages to compare the pressure, density, temperature distributions and filament morphology across simulations.
         - Conducted a literature review and presented findings to colleagues internationally.
-        - Work will likely be published in a peer-reviewed journal. This project was completed as part of a bachelor’s
-thesis.
+        - Work will likely be published in a peer-reviewed journal. This project was completed as part of a bachelor’s thesis.
       #    contents:
      #       - Sub-description 1.
     #        - Sub-description 2.
-    - title: Undergraduate Thesis II: Standard Siren Cosmology with Gravitational Waves
+    - title: Undergraduate Thesis II- Standard Siren Cosmology with Gravitational Waves
       institution: Canadian Institute for Theoretical Astrophysics, Toronto, Canada
       year: 2024 - 2025
       description:
         - Research assistant for Professor Maya Fishbach.
-        - Explored methods of recovering the redshift-distance relation from simulated gravitational-wave catalogs of
-redshifted masses and distances.
+        - Explored methods of recovering the redshift-distance relation from simulated gravitational-wave catalogs of redshifted masses and distances.
         - Developed methods of recovering the Hubble constant from gravitational waves, applicable to real events.
         - Received Summer Undergraduate Research Fellowship to continue this project over summer 2025.
         - Work will likely be published in a peer-reviewed journal. This project was completed as part of a second bachelor’s thesis, by special request.
@@ -59,7 +49,7 @@ redshifted masses and distances.
       year: Summer 2024
       description:
         - Worked under Professors Nikolina Ilic and Richard Teuscher on the ATLAS experiment at CERN for 12 weeks, in person.
-        - Investigated yearly spatial variations in jet distributions of the H → ZZ particle decay.
+        - Investigated yearly spatial variations in jet distributions of the H to ZZ particle decay.
         - Ran Monte Carlo particle simulations to compare with observed results.
         - Summarized findings in a report.
 
@@ -68,60 +58,61 @@ redshifted masses and distances.
   contents:
     - title: Teaching Assistant
       institution: University of Toronto, Canada
-
       year: 2023 - 2025
       description: 
         - Teaching assistant for <a href="https://engineering.calendar.utoronto.ca/course/mat186h1">MAT186</a> (Calculus I), <a href="https://engineering.calendar.utoronto.ca/course/mat187h1">MAT187</a> (Calculus II), <a href="https://engineering.calendar.utoronto.ca/course/mat188h1">MAT188</a> (Linear Algebra), and <a href="https://artsci.calendar.utoronto.ca/course/ast251h1">AST251</a> (Life on Other Worlds).
         - Led three tutorials per week, marked assignments, invigilated exams, and held office hours for university calculus, linear algebra, and astronomy courses with over 4,000 students combined.
-
-  - title: Summer Student
-    institution: Ontario Storm Prediction Centre, Environment Canada, Toronto, Canada
-
+    - title: Summer Student
+      institution: Ontario Storm Prediction Centre, Environment Canada, Toronto, Canada
       year: 2023
       description: 
         - Created a Python script to automate the collection of weather alerts from an online database.
         - Built an interactive dashboard in PowerBI to view and sort historical storm reports on a map, used by meteorologists across Canada.
         - Wrote detailed event summaries following extreme weather events, categorizing reports for media briefings used by major news organizations.
-
-  - title: Events Assistant
-    institution: Centre for Jewish Studies, University of Toronto, Canada
-
+    - title: Events Assistant
+      institution: Centre for Jewish Studies, University of Toronto, Canada
       year: 2022 - 2023
       description: 
         - Helped with event logistics and on-site coordination of workshops, lectures, and conferences.
         - Worked closely with undergraduate and graduate students, faculty, lecturers, and community members.
 
-- title: Vocalist, Yiddish Glory
-      year: 2016 - present
-      description: 
-        - Grammy-nominated lead vocalist on the album Yiddish Glory: The Lost Songs of World War II".
-        - Performed dozens of concerts worldwide, including in Canada, Germany, Austria, and Czechia.
-        - Sang newly discovered music written by Holocaust survivors and victims in the Soviet Union.
-
+        
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2025
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - Summer Undergraduate Research Fellowship – Canadian Institute for Theoretical Astrophysics ($9,500)
+    - year: 2024
       items:
-        - Max Planck Medal
+        - John Hamilton Watson Award for International Study – Victoria College, University of Toronto ($3,000)
+        - CIE International Experience Award – Centre for International Experience, University of Toronto ($1,500)
+    - year: 2021–2024
+      items:
+        - Regents Admission Scholarship, Victoria College (2021, $5,000)
+        - Helen Mae Woodliffe Scholarship, Victoria College (2022, $1,000)
+        - Regents In-course Scholarship I, Victoria College (2023, $1,000)
+        - Prof. William Kingston and Dr. John Kingston Scholarship, Victoria College (2024, $1,000)
 
-- title: Academic Interests
+
+- title: Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Academic
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Cosmology
+        - Large-scale structure
+        - Gravitational waves
+        - Numerical simulations
+    - title: Non-academic
       items:
-        - Description 1.
-        - Description 2.
+        - World history
+        - Baseball
+        - Travel 
+        - Chess 
+        - Politics 
+        - Music
 
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+
+
+
