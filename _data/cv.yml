@@ -2,71 +2,101 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Isaac Rosenberg
     - name: Date of Birth
-      value: 14th March 1879
+      value: October 10th 2003
     - name: Languages
-      value: English, German
+      value: English, French, German, Russian
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: BSc.
+      institution: University of Toronto, Toronto, Canada
+      year: 2021-2025
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+        - Astronomy and Astrophysics Specialist, Mathematics Minor
+        - GPA: 3.84/4.00
 
-- title: Experience
+#    - title: Federal teaching diploma
+#      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
+#      year: 1900
+#      description:
+#        - Description 1.
+#        - Description 2.
+
+- title: Research Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Undergraduate Thesis I: The Impacts of AGN Feedback on Galaxy Clusters
+      institution: Department of Astronomy, University of Toronto, Canada
+      year: 2024 - 2025
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Research assistant for Professor Renée Hložek and Dr. Martine Lokken.
+        - Ran hydrodynamic simulations with the 300 collaboration of galaxy clusters to understand how galactic
+feedback affects large-scale structure.
+        - Built packages to compare the pressure, density, temperature distributions and filament morphology across simulations.
+        - Conducted a literature review and presented findings to colleagues internationally.
+        - Work will likely be published in a peer-reviewed journal. This project was completed as part of a bachelor’s
+thesis.
+      #    contents:
+     #       - Sub-description 1.
+    #        - Sub-description 2.
+    - title: Undergraduate Thesis II: Standard Siren Cosmology with Gravitational Waves
+      institution: Canadian Institute for Theoretical Astrophysics, Toronto, Canada
+      year: 2024 - 2025
       description:
-        - Description 1.
-        - Description 2.
+        - Research assistant for Professor Maya Fishbach.
+        - Explored methods of recovering the redshift-distance relation from simulated gravitational-wave catalogs of
+redshifted masses and distances.
+        - Developed methods of recovering the Hubble constant from gravitational waves, applicable to real events.
+        - Received Summer Undergraduate Research Fellowship to continue this project over summer 2025.
+        - Work will likely be published in a peer-reviewed journal. This project was completed as part of a second bachelor’s thesis, by special request.
+      
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+    - title: Summer Research, ATLAS Experiment Summer 2024
+      institution: CERN, Geneva, Switzerland
+      year: Summer 2024
       description:
+        - Worked under Professors Nikolina Ilic and Richard Teuscher on the ATLAS experiment at CERN for 12 weeks, in person.
+        - Investigated yearly spatial variations in jet distributions of the H → ZZ particle decay.
+        - Ran Monte Carlo particle simulations to compare with observed results.
+        - Summarized findings in a report.
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+- title: Work Experience
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Teaching Assistant
+      institution: University of Toronto, Canada
+
+      year: 2023 - 2025
+      description: 
+        - Teaching assistant for <a href="https://engineering.calendar.utoronto.ca/course/mat186h1">MAT186</a> (Calculus I), <a href="https://engineering.calendar.utoronto.ca/course/mat187h1">MAT187</a> (Calculus II), <a href="https://engineering.calendar.utoronto.ca/course/mat188h1">MAT188</a> (Linear Algebra), and <a href="https://artsci.calendar.utoronto.ca/course/ast251h1">AST251</a> (Life on Other Worlds).
+        - Led three tutorials per week, marked assignments, invigilated exams, and held office hours for university calculus, linear algebra, and astronomy courses with over 4,000 students combined.
+
+  - title: Summer Student
+    institution: Ontario Storm Prediction Centre, Environment Canada, Toronto, Canada
+
+      year: 2023
+      description: 
+        - Created a Python script to automate the collection of weather alerts from an online database.
+        - Built an interactive dashboard in PowerBI to view and sort historical storm reports on a map, used by meteorologists across Canada.
+        - Wrote detailed event summaries following extreme weather events, categorizing reports for media briefings used by major news organizations.
+
+  - title: Events Assistant
+    institution: Centre for Jewish Studies, University of Toronto, Canada
+
+      year: 2022 - 2023
+      description: 
+        - Helped with event logistics and on-site coordination of workshops, lectures, and conferences.
+        - Worked closely with undergraduate and graduate students, faculty, lecturers, and community members.
+
+- title: Vocalist, Yiddish Glory
+      year: 2016 - present
+      description: 
+        - Grammy-nominated lead vocalist on the album Yiddish Glory: The Lost Songs of World War II".
+        - Performed dozens of concerts worldwide, including in Canada, Germany, Austria, and Czechia.
+        - Sang newly discovered music written by Holocaust survivors and victims in the Soviet Union.
 
 - title: Honors and Awards
   type: time_table
