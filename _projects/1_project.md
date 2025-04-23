@@ -12,7 +12,7 @@ This project explores the impact of active galactic nuclei (AGN) feedback on the
 
 While some studies only explore binary feedback toggles, our approach tests a spectrum of physical feedback models to understand their role in shaping large-scale cosmic structure. We find that higher jet velocities suppress central gas temperatures but increase heating in the outskirts of halos. Our results also demonstrate how feedback changes the morphology of filaments and the thermal history of diffuse gas.
 
-Below, you’ll find selected figures from the analysis, including tSZ maps, temperature profiles, and halo gas fraction comparisons. A GIF visualization of AGN jets in action will be embedded shortly.
+Below, you’ll find selected figures from the analysis, including tSZ maps, temperature profiles, halo gas fraction comparisons, and a GIF comparing the temperature over time.
 
 ---
 
