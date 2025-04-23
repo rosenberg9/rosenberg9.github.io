@@ -76,6 +76,65 @@
         - Helped with event logistics and on-site coordination of workshops, lectures, and conferences.
         - Worked closely with undergraduate and graduate students, faculty, lecturers, and community members.
 
+- title: Skills
+  type: nested_list
+  contents:
+    - title: Programming Languages
+      items:
+        - Python
+        - C
+        - C++
+        - Perl
+        - Java
+        - MATLAB
+        - ROOT
+    - title: Operating Systems
+      items:
+        - Windows
+        - Mac
+        - Linux
+    - title: Hydrodynamic Simulations and Related Tools
+      items:
+        - GIZMO
+        - GADGET
+        - CAESAR
+        - YT
+    - title: Python Packages
+      items:
+        - NumPy
+        - SciPy
+        - Matplot
+        - Pandas
+        - AstroPy
+
+- title: Relevant Coursework
+  type: nested_list
+  contents:
+    - title: Mathematics and Computer Science
+      items:
+        - Analysis
+        - Multivariable Calculus
+        - Linear Algebra I & II
+        - Differential Equations
+        - Complex Analysis
+        - Introduction to Computer Programming
+        - Neural Networks
+    - title: Physics
+      items:
+        - Quantum Mechanics I & II
+        - Classical Mechanics I & II
+        - Electromagnetism I & II
+        - Thermal Physics
+        - High Energy Physics
+        - Computational Physics
+        - Physics Laboratory
+    - title: Astrophysics
+      items:
+        - Stars and Planets
+        - Galaxies and Cosmology
+        - Introduction to Astrophysics
+        - Astrophysics Laboratory
+        - Cosmology (PhD-level course)
         
 - title: Honors and Awards
   type: time_table

@@ -1,5 +1,8 @@
 ---
 layout: default
+nav: false
+published: false
+
 permalink: /blog/
 title: blog
 nav: true
