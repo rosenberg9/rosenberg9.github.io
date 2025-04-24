@@ -19,7 +19,7 @@ Through these roles, I developed a deeper understanding of subjects I once took 
   </div>
   <div class="col-md-3">
     <div class="caption">
-      This is a photo of a classroom in the Myhal building at the University of Toronto. For MAT187 I was a lecture TA, where my main duty was roaming around this (very large) room asking students questions.  
+      This is a photo of a classroom in the Myhal building at the University of Toronto. For MAT187 I was a lecture TA, where my main duty was roaming around this (very large) room. 
       <br><small>Image credit: <a href="https://www.montgomerysisam.com/wp-content/uploads/2018/12/010A8885.jpg">Montgomery Sisam</a></small>
     </div>
   </div>
