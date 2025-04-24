@@ -30,6 +30,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
+        },{id: "nav-contact",
+          title: "Contact",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/contact/";
+          },
         },{id: "projects-agn-feedback-in-the-cosmic-web",
           title: 'AGN Feedback in the Cosmic Web',
           description: "Modeling AGN jets and baryon redistribution using the Three Hundred simulations",
