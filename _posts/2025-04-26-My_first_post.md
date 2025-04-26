@@ -75,4 +75,4 @@ The streets were filled with American tourists from Michigan and New York. I won
 
 ## Day 4
 
-On our final morning in Québec City, the weather was abysmal. Cold, rainy, windy. Luckily, this was a travel day, and I did not have any site-seeing planned. Before I left though, I grabbed sandwiches from <a href = "https://laplaceboutiquegourmande.com/">La Place Boutique Gourmande<\a>, an artisan grocery store with an assortment of tasty spreads, sauces and prepared foods.
+On our final morning in Québec City, the weather was abysmal. Cold, rainy, windy. Luckily, this was a travel day, and I did not have any site-seeing planned. Before I left though, I grabbed sandwiches from <a href = "https://laplaceboutiquegourmande.com/">La Place Boutique Gourmande</a>, an artisan grocery store with an assortment of tasty spreads, sauces and prepared foods.
