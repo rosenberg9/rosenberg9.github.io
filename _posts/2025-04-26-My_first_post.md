@@ -2,7 +2,7 @@
 layout: post
 title: Québec City trip
 date: 2025-04-26
-description: description
+description: This is what I did in my three days visiting the prettiest city in Canada.
 thumbnail: assets/img/chateau.png
 #tags: formatting links
 #categories: sample-posts
