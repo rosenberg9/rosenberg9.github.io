@@ -10,6 +10,8 @@ thumbnail: assets/img/chateau.png
 
 I am writing this on the train from Québec City to Ottawa, on day seven out of ten of my post-graduation vacation. It was my first time in Québec City and I was very impressed by the city's European feel.
 
+<br>
+
 ## Day 1
 
 <div style="display: flex; flex-wrap: nowrap; gap: 20px; align-items: flex-start;">
@@ -33,9 +35,16 @@ Braised calamari stuffed with beef and mussels in a smoky tomato sauce, served w
 
 </div>
 
+<br>
 ## Day 2
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
+
+
+<div style="flex: 1; min-width: 250px;">
+<img src="/assets/img/montmorency_wide.png" alt="Montmorency Falls" style="width: 80%; height: auto;">
+<figcaption><b>Montmorency Falls:</b> The highest waterfall in Québec, at 83 meters (272 feet), taller than Niagara Falls by 30 meters.</figcaption>
+</div>
 
 <div style="flex: 1; min-width: 250px;">
 On our second day, I took the bus to Montmorency Falls. The falls, standing at 83m (272 feet), are the tallest in the province, and a full 30m higher than Niagara Falls.
@@ -43,13 +52,9 @@ On our second day, I took the bus to Montmorency Falls. The falls, standing at 8
 After getting off the bus and paying the $10 entry fee, I walked around the park, which features hiking trails, a cable car across the river, and a playground for younger kids. The highlight, however, was the falls. Be prepared to first walk down (and then, unfortunately, up) many flights of stairs to get the best view of the waterfall.
 </div>
 
-<div style="flex: 1; min-width: 250px;">
-<img src="/assets/img/montmorency_wide.png" alt="Montmorency Falls" style="width: 80%; height: auto;">
-<figcaption><b>Montmorency Falls:</b> The highest waterfall in Québec, at 83 meters (272 feet), taller than Niagara Falls by 30 meters.</figcaption>
 </div>
 
-</div>
-
+<br>
 ## Day 3
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
@@ -66,6 +71,7 @@ The streets were filled with American tourists from Michigan and New York. I won
 </div>
 
 </div>
+<br>
 
 ## Day 4
 
