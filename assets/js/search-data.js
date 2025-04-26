@@ -9,7 +9,14 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-projects",
+  },{id: "nav-blog",
+          title: "Blog",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/blog/";
+          },
+        },{id: "nav-projects",
           title: "Projects",
           description: "Research projects in cosmology, galaxy clusters, and gravitational-wave astrophysics.",
           section: "Navigation",
@@ -37,17 +44,42 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/contact/";
           },
-        },{id: "projects-agn-feedback-in-the-cosmic-web",
+        },{id: "post-québec-city-trip",
+        
+          title: "Québec City trip",
+        
+        description: "description",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/My_first_post/";
+          
+        },
+      },{id: "projects-agn-feedback-in-the-cosmic-web",
           title: 'AGN Feedback in the Cosmic Web',
-          description: "Modeling AGN jets and baryon redistribution using the Three Hundred simulations",
+          description: "",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project.html";
+              window.location.href = "/projects/1_project/";
             },},{id: "projects-cosmology-with-spectral-sirens",
           title: 'Cosmology with Spectral Sirens',
-          description: "Constraining the Hubble constant using gravitational-wave sources and galaxy clustering",
+          description: "",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project.html";
+              window.location.href = "/projects/2_project/";
             },},{
+        id: 'social-email',
+        title: 'email',
+        section: 'Socials',
+        handler: () => {
+          window.open("mailto:%69%73%61%61%63.%72%6F%73%65%6E%62%65%72%67@%79%61%68%6F%6F.%63%6F%6D", "_blank");
+        },
+      },{
+        id: 'social-custom_social',
+        title: 'Custom_social',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.alberteinstein.com/", "_blank");
+        },
+      },{
       id: 'light-theme',
       title: 'Change theme to light',
       description: 'Change the theme of the site to Light',
