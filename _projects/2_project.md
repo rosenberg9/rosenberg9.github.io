@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Cosmology with Spectral Sirens
-description: Constraining the Hubble constant using gravitational-wave sources and galaxy clustering
+#description: Constraining the Hubble constant using gravitational-wave sources and galaxy clustering
 img: assets/img/gw_banner.png
 importance: 1
 category: work

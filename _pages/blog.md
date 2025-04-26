@@ -1,10 +1,11 @@
 ---
 layout: default
 nav: false
-published: false
+published: true
 
 permalink: /blog/
-title: blog
+title: Blog
+
 nav: true
 nav_order: 1
 pagination:
@@ -19,10 +20,12 @@ pagination:
     after: 3 # The number of links after the current page
 ---
 
+
 <div class="post">
 
 {% assign blog_name_size = site.blog_name | size %}
 {% assign blog_description_size = site.blog_description | size %}
+
 
 {% if blog_name_size > 0 or blog_description_size > 0 %}
 
@@ -31,6 +34,9 @@ pagination:
     <h2>{{ site.blog_description }}</h2>
   </div>
   {% endif %}
+
+I am making this blog as a test to myself to practice my writing. With the goal of making a new post every week, topics may range from my research interests to an artist I've been really enjoying.
+
 
 {% if site.display_tags and site.display_tags.size > 0 or site.display_categories and site.display_categories.size > 0 %}
 
@@ -62,6 +68,7 @@ pagination:
 {% assign featured_posts = site.posts | where: "featured", "true" %}
 {% if featured_posts.size > 0 %}
 <br>
+
 
 <div class="container featured-posts">
 {% assign is_even = featured_posts.size | modulo: 2 %}
@@ -104,6 +111,8 @@ pagination:
 
 {% endif %}
 
+
+
   <ul class="post-list">
 
     {% if page.pagination.enabled %}
@@ -124,6 +133,8 @@ pagination:
     {% assign categories = post.categories | join: "" %}
 
     <li>
+
+
 
 {% if post.thumbnail %}
 
