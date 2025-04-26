@@ -48,7 +48,7 @@ ninja.data = [{
         
           title: "Québec City trip",
         
-        description: "description",
+        description: "This is what I did in my three days visiting the prettiest city in Canada.",
         section: "Posts",
         handler: () => {
           
