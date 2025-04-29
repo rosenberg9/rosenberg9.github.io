@@ -25,7 +25,7 @@ nav_order: 9
 
 </div>
 
-Our album went on to be nominated for a [GRAMMY Award for Best World Music Album in 2019](https://www.ctvnews.ca/toronto/article/toronto-teen-gets-grammy-nomination-for-album-featuring-songs-by-holocaust-victims/), and we have since performed in concert halls across North America, Europe, and Asia—including Toronto, Montreal, New York, San Francisco, and Budapest. I have been incredibly fortunate to perform alongside some of the most respected names in folk, jazz, and klezmer music, including Psoy Korolenko, Sophie Milman, Sergei Erdenko, and Sasha Lurje.
+Our album went on to be nominated for a [GRAMMY Award for Best World Music Album in 2019](https://www.ctvnews.ca/toronto/article/toronto-teen-gets-grammy-nomination-for-album-featuring-songs-by-holocaust-victims/), and we have since performed in concert halls across North America, Europe, and Asia—including Toronto, Austria, Germany and Czechia. I have been incredibly fortunate to perform alongside some of the most respected names in folk, jazz, and klezmer music, including Psoy Korolenko, Sophie Milman, Sergei Erdenko, and Sasha Lurje.
 
 ## Press
 
