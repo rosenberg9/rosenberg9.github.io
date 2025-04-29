@@ -4,7 +4,7 @@ title: AGN Feedback in the Cosmic Web
 #description: Modeling AGN jets and baryon redistribution using the Three Hundred simulations
 img: assets/img/agn_banner.jpg
 importance: 1
-category: work
+category: research
 #related_publications: true
 ---
 
