@@ -44,6 +44,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/contact/";
           },
+        },{id: "nav-music",
+          title: "Music",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/music/";
+          },
         },{id: "post-québec-city-trip",
         
           title: "Québec City trip",
