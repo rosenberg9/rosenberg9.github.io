@@ -103,5 +103,5 @@ After 10 training epochs (60,000 examples, in minibatches of 100), the network a
 > **98.5% accuracy** on the MNIST test set  
 > (Only ~150 errors out of 10,000 images)
 
-I would like to give credit to Dr. Douglas Tweed who created this project for the course <a href="https://physiology.utoronto.ca/psl432h1s-theoretical-physiology">PSL432: Theoretical Physiology
+I would like to thank Dr. Douglas Tweed who created this project for the course <a href="https://physiology.utoronto.ca/psl432h1s-theoretical-physiology">PSL432: Theoretical Physiology
   </a>.
