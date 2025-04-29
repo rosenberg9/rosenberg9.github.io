@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-projects",
           title: "Projects",
-          description: "Research projects in cosmology, galaxy clusters, and gravitational-wave astrophysics.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -72,6 +72,11 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
+            },},{id: "projects-building-a-neural-network-to-recognize-handwritten-digits",
+          title: 'Building a Neural Network to Recognize Handwritten Digits',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/3_project/";
             },},{
         id: 'social-email',
         title: 'email',
