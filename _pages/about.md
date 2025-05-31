@@ -28,7 +28,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am an incoming master's student at (TBD). I recently completed my Bachelor's at the University of Toronto, studying physics and astrophysics with a focus on cosmology, gravitational waves, and large-scale structure. Some of my past work has been on hydrodynamic simulations, gravitational waves, and particle physics.
+I am an incoming master's student in the <a href="https://www.master-mass.eu/">link Erasmus MASS program</a>. I recently completed my Bachelor's at the University of Toronto, studying physics and astrophysics with a focus on cosmology, gravitational waves, and large-scale structure. Some of my past work has been on hydrodynamic simulations, gravitational waves, and particle physics.
 
 I’m currently a Summer Undergraduate Research Fellow at the Canadian Institute for Theoretical Astrophysics (CITA), where I’m working on gravitational-wave spectral sirens.
 
