@@ -1,18 +1,104 @@
 ---
 layout: default
+title: CV
 ---
+
 <div class="post">
   <header class="post-header">
     <h1 class="post-title">{{ page.title }}</h1>
   </header>
 
   <article>
-    <div style="width:100%; height:100vh;">
-      <embed 
-        src="{{ 'assets/pdf/cv.pdf' | relative_url }}" 
-        type="application/pdf" 
-        width="100%" 
-        height="100%">
+    {% assign pdf_path = 'assets/pdf/cv.pdf' | relative_url %}
+
+    <div class="pdf-wrap" role="region" aria-label="Embedded CV PDF">
+      <!-- Primary: native inline PDF via <object> (best cross-browser) -->
+      <object
+        data="{{ pdf_path }}#view=FitH&zoom=page-fit"
+        type="application/pdf"
+        class="pdf-object"
+      >
+        <!-- Fallback 1: try an iframe (some browsers prefer this) -->
+        <iframe
+          src="{{ pdf_path }}#view=FitH&zoom=page-fit"
+          title="Curriculum Vitae"
+          class="pdf-iframe"
+          loading="lazy"
+        ></iframe>
+
+        <!-- Fallback 2: plain link -->
+        <div class="pdf-fallback">
+          <p>Your browser can’t display PDFs inline.</p>
+          <a href="{{ pdf_path }}" target="_blank" rel="noopener">Open the PDF ↗</a>
+        </div>
+      </object>
+
+      <a class="pdf-download" href="{{ pdf_path }}" target="_blank" rel="noopener">Open full PDF ↗</a>
     </div>
   </article>
 </div>
+
+<style>
+/* Container sized for comfortable scrolling on desktop & mobile */
+.pdf-wrap {
+  position: relative;
+  width: 100%;
+  height: 90vh;                     /* tall, scrolls multiple pages */
+  max-height: 100vh;
+  border: 1px solid #e5e5e5;
+  border-radius: 12px;
+  overflow: hidden;                 /* frame edges clean */
+  background: #f8f9fa;
+}
+
+/* The <object> is the main renderer */
+.pdf-object {
+  display: block;
+  width: 100%;
+  height: 100%;
+  border: 0;
+}
+
+/* If the browser falls back to the iframe */
+.pdf-iframe {
+  display: block;
+  width: 100%;
+  height: 100%;
+  border: 0;
+}
+
+/* Tiny helper link in the corner */
+.pdf-download {
+  position: absolute;
+  right: 10px;
+  bottom: 8px;
+  z-index: 2;
+  font-size: 0.9rem;
+  background: rgba(255,255,255,0.92);
+  padding: 6px 10px;
+  border-radius: 8px;
+  text-decoration: none;
+  color: #333;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.06);
+}
+
+/* Fallback message block */
+.pdf-fallback {
+  position: absolute;
+  inset: 0;
+  display: grid;
+  place-items: center;
+  text-align: center;
+  padding: 1rem;
+}
+
+/* On small screens, give a bit more height */
+@media (max-width: 480px) {
+  .pdf-wrap { height: 92vh; }
+}
+
+/* iOS Safari sometimes needs a nudge; this keeps it tall and scrollable */
+@supports (-webkit-touch-callout: none) {
+  .pdf-wrap { height: 92vh; }
+}
+</style>

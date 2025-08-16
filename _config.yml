@@ -194,11 +194,11 @@ exclude:
   - lighthouse_results/
   - package.json
   - package-lock.json
-  - _pages/about_einstein.md
-  - purgecss.config.js
   - README.md
   - readme_preview/
   - vendor
+  - _pages/about_einstein.md # (you had this earlier; keep it here if you want it excluded)
+
 keep_files:
   - CNAME
   - .nojekyll
@@ -238,8 +238,10 @@ sass:
 # -----------------------------------------------------------------------------
 
 jekyll-minifier:
-  compress_javascript: false # set to false since we are using terser as the js minifier
-  exclude: ["robots.txt", "assets/js/search/*.js"]
+  compress_javascript: false
+  exclude:
+    - robots.txt
+    - assets/js/search/*.js
 
 # -----------------------------------------------------------------------------
 # Terser
@@ -649,3 +651,4 @@ jsonresume:
   - languages
   - interests
   - references
+
