@@ -1,13 +1,13 @@
 ---
 layout: page
-permalink: /teaching/
-title: Teaching
-#description: Materials for courses I have taught and my experience as a teaching assistant.
-nav: false
-nav_order: 6
+title: Experience as a teaching assistant
+img: assets/img/my100.jpg
+importance: 1
+category: teaching
+#related_publications: true
 ---
 
-Since my third year at the University of Toronto, I have been a teaching assistant for several courses in the Departments of Mathematics and Astronomy. These include [Calculus I (MAT186)](https://engineering.calendar.utoronto.ca/course/mat186h1), [Calculus II (MAT187)](https://engineering.calendar.utoronto.ca/course/mat187h1), [Linear Algebra (MAT188)](https://engineering.calendar.utoronto.ca/course/mat188h1), and [Life on Other Worlds (AST251)](https://artsci.calendar.utoronto.ca/course/ast251h1). 
+During my third and fourth years at the University of Toronto, I have been a teaching assistant for several courses in the Departments of Mathematics and Astronomy. These include [Calculus I (MAT186)](https://engineering.calendar.utoronto.ca/course/mat186h1), [Calculus II (MAT187)](https://engineering.calendar.utoronto.ca/course/mat187h1), [Linear Algebra (MAT188)](https://engineering.calendar.utoronto.ca/course/mat188h1), and [Life on Other Worlds (AST251)](https://artsci.calendar.utoronto.ca/course/ast251h1). 
 
 In MAT187, I led three tutorials each week, guiding students through core concepts in calculus while reinforcing problem-solving techniques. Across all courses, my responsibilities included running tutorials, grading assignments, invigilating exams, and holding office hours. In total, I've worked with over 4,000 students, helping them navigate challenging topics in mathematics and astronomy.
 

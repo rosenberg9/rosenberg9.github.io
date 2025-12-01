@@ -5,7 +5,7 @@ permalink: /projects/
 #description: Research projects in cosmology, galaxy clusters, and gravitational-wave astrophysics.
 nav: true
 nav_order: 3
-display_categories: [research, other]
+display_categories: [research, teaching, other]
 horizontal: false
 ---
 
