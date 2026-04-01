@@ -35,7 +35,7 @@ pagination:
   </div>
   {% endif %}
 
-I am making this blog as a test to myself to practice my writing. With the goal of making a new post every week, topics may range from my research interests to an artist I've been really enjoying.
+<I am making this blog as a test to myself to practice my writing. With the goal of making a new post every week, topics may range from my research interests to an artist I've been really enjoying.>
 
 
 {% if site.display_tags and site.display_tags.size > 0 or site.display_categories and site.display_categories.size > 0 %}
