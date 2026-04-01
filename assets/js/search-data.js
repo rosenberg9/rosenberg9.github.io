@@ -44,7 +44,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/music/";
           },
-        },{id: "post-québec-city-trip",
+        },{id: "post-passover-in-belgrade",
+        
+          title: "Passover in Belgrade",
+        
+        description: "Trying to celebrate Passover in Belgrade.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/Passover/";
+          
+        },
+      },{id: "post-québec-city-trip",
         
           title: "Québec City trip",
         
