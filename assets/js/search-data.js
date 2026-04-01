@@ -48,7 +48,7 @@ ninja.data = [{
         
           title: "Passover in Belgrade",
         
-        description: "Trying to celebrate Passover in Belgrade.",
+        description: "Reflections on celebrating Passover away from home.",
         section: "Posts",
         handler: () => {
           
