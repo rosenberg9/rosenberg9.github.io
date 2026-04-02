@@ -28,7 +28,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a master's student in the <a href="https://www.master-mass.eu/">Erasmus MASS program</a>. It is a two year joint masters, offered by four universities across Europe. I am currently based in Rome, but am moving to study at the University of Belgrade in March.
+I am a master's student in the <a href="https://www.master-mass.eu/">Erasmus MASS program</a>. It is a two year joint masters, offered by four universities across Europe. I am currently based in Belgrade, but am moving to study at the Université Côte d'Azur in Nice, France in September 2026.
 
 I recently completed my Bachelor's at the University of Toronto, studying physics and astrophysics with a focus on cosmology, gravitational waves, and large-scale structure. Some of my past work has been on hydrodynamic simulations, gravitational waves, and particle physics.
 
