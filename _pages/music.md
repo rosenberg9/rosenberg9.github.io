@@ -6,26 +6,30 @@ nav: true
 nav_order: 9
 ---
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center; margin-top: 2rem;">
-
-  <div style="flex: 1; min-width: 250px; text-align: center;">
-    <img src="/assets/img/isaac_psoy_grammy.png" alt="Psoy Korolenko and I at the Grammy Awards in 2019" style="width: 100%; height: auto;" class="img-fluid rounded z-depth-1">
-    <figcaption class="text-muted small"><b>Psoy Korolenko and I at the Grammy Awards in 2019</b></figcaption>
-  </div>
-
-  <div style="flex: 2; min-width: 300px;">
-    <p>
-      I am also a singer with musical group <em>Yiddish Glory</em>. We released an album in 2018 called <em>Yiddish Glory: The Lost Songs of World War II</em>, where I sang lead vocals on three of the tracks. The album went on to be nominated for a <a href="https://www.ctvnews.ca/toronto/article/toronto-teen-gets-grammy-nomination-for-album-featuring-songs-by-holocaust-victims/">Grammy Award</a> in the Best World Music Album category in 2019, and we have since toured North America, Europe and Asia.
-    </p>
-
-    <p>
-      At just 12 years old, I joined the <em>Yiddish Glory</em> project, performing lead vocals on three tracks of the 2018 album, <a href="https://www.yiddishglory.com/"><em>Yiddish Glory: The Lost Songs of World War II</em></a>. One of the pieces I sang was written by a Jewish boy orphaned in the Tulchin ghetto—his family murdered during the Holocaust. Lending my voice to these songs became a way of recovering a history that was almost silenced.
-    </p>
-  </div>
-
+<div class="container mt-4">
+<div class="row align-items-center">
+<div class="col-md-4 text-center mb-4 mb-md-0">
+<img src="/assets/img/isaac_psoy_grammy.png" alt="Psoy Korolenko and I at the Grammy Awards in 2019" class="img-fluid rounded z-depth-1">
+<p class="text-muted small mt-2"><b>Psoy Korolenko and I at the Grammy Awards in 2019</b></p>
+</div>
+<div class="col-md-8">
+<p>
+I am also a singer with musical group <em>Yiddish Glory</em>. We released an album in 2018 called <em>Yiddish Glory: The Lost Songs of World War II</em>, where I sang lead vocals on three of the tracks. The album went on to be nominated for a <a href="https://www.ctvnews.ca/toronto/article/toronto-teen-gets-grammy-nomination-for-album-featuring-songs-by-holocaust-victims/">Grammy Award</a> in the Best World Music Album category in 2019, and we have since toured North America, Europe and Asia.
+</p>
+<p>
+In 2026, our second album was released. It is called <strong>Yiddish Glory: The Silenced Songs of World War II</strong>. This album focuses on songs written in present-day Ukraine, Moldova and Central Asia, and challenges the way we understand the Holocaust. I sing track 10 on the album 'Song of Pechera Camp'. You can listen to it on <a href="https://www.youtube.com/watch?v=yoAhwMBWhjA">YouTube</a>, <a href="https://open.spotify.com/track/47WbLpFm1MfMl4Ax2lRbqQ?si=1fa57d4909374193">Spotify</a>, <a href="https://open.spotify.com/track/47WbLpFm1MfMl4Ax2lRbqQ?si=1fa57d4909374193">Apple Music</a> or wherever else you like to stream.
+</p>
+</div>
+</div>
 </div>
 
-Our album went on to be nominated for a [GRAMMY Award for Best World Music Album in 2019](https://www.ctvnews.ca/toronto/article/toronto-teen-gets-grammy-nomination-for-album-featuring-songs-by-holocaust-victims/), and we have since performed in concert halls across North America, Europe, and Asia—including Toronto, Austria, Germany and Czechia. I have been incredibly fortunate to perform alongside some of the most respected names in folk, jazz, and klezmer music, including Psoy Korolenko, Sophie Milman, Sergei Erdenko, and Sasha Lurje.
+<blockquote class="blockquote border-left pl-3" style="font-size: 0.95rem;">
+From Anna Shternshis: "Structured as a folk ballad, the song documents some of the most important segments of memories about Pechera, a camp in the Vynnitsia region of Ukraine, designed to kill inmates through starvation. Between 1941 and 1943, about 4,000 people died there (The United States Holocaust Memorial Museum Encyclopedia of Camps and Ghettos, 1933–1945: Volume III: Camps and Ghettos under European Regimes Aligned with Nazi Germany Indiana University Press. p. 743). The camp was operated primarily by local gendarmes. The song depicts one such guard, Lukyan Smetansky, especially known for his mercilessness. Survivors described him as a short, angry drunk, remembered for his brutality, taking bribes and not honoring them, and committing acts of violence against Jews just for fun. In 1945, as the legend goes, he was killed on the spot by a Jewish officer soon after the Red Army liberated Pechera."
+</blockquote>
+
+At just 12 years old, I joined the <em>Yiddish Glory</em> project, performing lead vocals on three tracks of the 2018 album, <a href="https://www.yiddishglory.com/"><em>Yiddish Glory: The Lost Songs of World War II</em></a>. One of the pieces I sang was written by a Jewish boy orphaned in the Tulchin ghetto—his family murdered during the Holocaust. Lending my voice to these songs became a way of recovering a history that was almost silenced.
+
+Our album went on to be nominated for a GRAMMY Award for Best World Music Album in 2019, and we have since performed in concert halls across North America, Europe, and Asia—including Toronto, Austria, Germany and Czechia. I have been incredibly fortunate to perform alongside some of the most respected names in folk, jazz, and klezmer music, including Psoy Korolenko, Sophie Milman, Sergei Erdenko, and Sasha Lurje.
 
 ## Press
 
@@ -49,10 +53,7 @@ Many pieces were the first grassroots testimonies of German atrocities against J
 
   <div style="flex: 2; min-width: 300px;">
     <p>
-The album, released February 2018 is the result of a remarkable collaboration between artist Psoy Korolenko and Yiddish Professor Anna Shternshis. Although some archival documents had their melodies preserved, most were simply lyrics written on small scraps of paper. Psoy Korolenko engaged in “musical archaeology,” and analyzed the scarce supplementary notes, contextualized the lyrics and then took a leap of imagination in order to create or adapt music for the texts. Sergei Erdenko (Russia’s greatest living Roma violinist, founder of the group Loyko and longtime collaborator of Yehudi Menuhin) created multi-instrument arrangements and wrote original music for one song (“Kazakhstan”).
-    </p>
-    <p>
-      The epic discovery of Yiddish songs from World War II and the Holocaust led producer Dan Rosenberg to bring together an ensemble of elite soloists from the worlds of classical, folk and jazz, which consisted of five vocalists (including Juno-award winner Sophie Milman), and five conservatory trained instrumentalists. The album “Yiddish Glory” is the fruit of this three-year-long process, and is not just a breathtaking recording, it is a time capsule that reveals how Jewish men, women and children fought against fascism, tried against all odds to save their families, and in their final moments chose to reveal their hopes and dreams through music. For the first time, the public will hear the voices of the Soviet Jews who were thought to be silenced by Hitler and Stalin.
+The album, released February 2018 is the result of a remarkable collaboration between artist Psoy Korolenko and Yiddish Professor Anna Shternshis. Although some archival documents had their melodies preserved, most were simply lyrics written on small scraps of paper. Psoy Korolenko engaged in “musical archaeology,” and analyzed the scarce supplementary notes, contextualized the lyrics and then took a leap of imagination in order to create or adapt music for the texts. Sergei Erdenko (Russia’s greatest living Roma violinist, founder of the group Loyko) created multi-instrument arrangements and wrote original music for “Kazakhstan”.
     </p>
   </div>
 
