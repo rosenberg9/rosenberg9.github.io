@@ -44,7 +44,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/music/";
           },
-        },{id: "post-passover-in-belgrade",
+        },{id: "post-artemis-ii-and-science-funding",
+        
+          title: "Artemis II and Science Funding",
+        
+        description: "I was on Serbian national television!",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/Artemis_launch/";
+          
+        },
+      },{id: "post-passover-in-belgrade",
         
           title: "Passover in Belgrade",
         
