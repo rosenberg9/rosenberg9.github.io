@@ -8,7 +8,7 @@ category: teaching
 ---
 
 <iframe 
-    src="/assets/html/Machine\ Learning\ Tutorial/notebooks/intro_to_neural_networks.html"
+    src="/assets/html/Machine Learning Tutorial/notebooks/intro_to_neural_networks.html"
     width="100%" 
     height="1000px"
     style="border: none;">
