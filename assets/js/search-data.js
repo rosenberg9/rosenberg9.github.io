@@ -44,7 +44,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/music/";
           },
-        },{id: "post-artemis-ii-and-science-funding",
+        },{id: "post-i-submitted-a-paper",
+        
+          title: "I submitted a paper!",
+        
+        description: "I submitted my first paper to the arxiv on AGN feedback",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/Jets_paper/";
+          
+        },
+      },{id: "post-artemis-ii-and-science-funding",
         
           title: "Artemis II and Science Funding",
         
