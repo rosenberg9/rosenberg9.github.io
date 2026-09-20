@@ -44,7 +44,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/music/";
           },
-        },{id: "post-i-submitted-a-paper",
+        },{id: "post-two-little-pigs-and-the-mountain",
+        
+          title: "Two little pigs and the mountain",
+        
+        description: "The story of a longer than expected day climbing a mountain in Zagreb, Croatia.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/Zagreb/";
+          
+        },
+      },{id: "post-i-submitted-a-paper",
         
           title: "I submitted a paper!",
         
@@ -52,7 +63,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2026/Jets_paper/";
+            window.location.href = "/blog/2026/Jets_paper-copy/";
           
         },
       },{id: "post-artemis-ii-and-science-funding",
